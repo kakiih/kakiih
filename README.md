@@ -5,7 +5,7 @@
 ## 💼 Projetos em Destaque
 
 - 🔧 [API Seleções](https://github.com/kakiih/api-selecoes) — API RESTful com Node.js, Express e MySQL. Projeto focado no aprendizado de CRUD completo com boas práticas.
-- 🌎 Scoope Turismo (em desenvolvimento) — Plataforma de turismo com pacotes personalizados. Frontend em React e backend com Node.js.
+- 🌎 [Scoope Turismo](https://github.com/kakiih/Projeto-Scoope) — Plataforma de turismo com pacotes personalizados. Frontend em React e backend com Node.js.
 
 ## 🚀 Tecnologias & Ferramentas que uso
 
