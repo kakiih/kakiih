@@ -2,8 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fialhomiguel/)
 
-![Miguel Fialho GitHub stats](https://github-readme-stats.vercel.app/api?username=kakiih&show_icons=true&theme=onedark)
-
 ## 💼 Projetos em Destaque
 
 - 🔧 [API Seleções](https://github.com/kakiih/api-selecoes) — API RESTful com Node.js, Express e MySQL. Projeto focado no aprendizado de CRUD completo com boas práticas.
