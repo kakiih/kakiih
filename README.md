@@ -4,7 +4,9 @@
 
 ## 💼 Projetos em Destaque
 
-- 🔧 [API Seleções](https://github.com/kakiih/api-selecoes) — API RESTful com Node.js, Express e MySQL. Projeto focado no aprendizado de CRUD completo com boas práticas.
+- 📧 [Classificador de E-mails](https://github.com/kakiih/classificador-email-frontend) — Aplicação completa (frontend + backend) que permite enviar e-mails (texto ou PDF), classifica como **produtivo** ou **improdutivo**, estima a **confiabilidade** e sugere uma **resposta gerada por IA**.  
+  👉 [Frontend Deploy](https://email-classificador.netlify.app/) | [Backend Deploy](https://classificador-email-backend.onrender.com/processar-email/)
+
 - 🌎 [Scoope Turismo](https://github.com/kakiih/Projeto-Scoope) — Plataforma de turismo com pacotes personalizados. Frontend em React e backend com Node.js.
 
 ## 🚀 Tecnologias & Ferramentas que uso
@@ -26,10 +28,10 @@
 
 ## 📚 Aprendendo agora
 
-- TypeScript
-- Testes com Jest
-- Clean Code & arquitetura de projetos
+- TypeScript  
+- Testes com Jest  
+- Clean Code & arquitetura de projetos  
 
 ---
 
-Transformo desafios em soluções com criatividade e inovação, unindo tecnologia e aprendizado para impactar positivamente o futuro.
+✨ Transformo desafios em soluções com criatividade e inovação, unindo tecnologia e aprendizado para impactar positivamente o futuro.
