@@ -10,7 +10,6 @@ Sou desenvolvedor **fullstack em formação**, apaixonado por tecnologia, aprend
 ## 💼 Projetos em Destaque
 
 - 📧 [Classificador de E-mails](https://github.com/kakiih/classificador-email-frontend) — Aplicação completa (frontend + backend) que permite enviar e-mails (texto ou PDF), classifica como **produtivo** ou **improdutivo**, estima a **confiabilidade** e sugere uma **resposta gerada por IA**.  
-
   👉 [Frontend Deploy](https://email-classificador.netlify.app/) | [Backend Deploy](https://classificador-email-backend.onrender.com/processar-email/)
 
 - 🌎 [Scoope Turismo](https://github.com/kakiih/Projeto-Scoope) — Plataforma de turismo com pacotes personalizados. Frontend em React e backend com Node.js.
