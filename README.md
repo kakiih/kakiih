@@ -10,7 +10,6 @@ Sou desenvolvedor **fullstack em formação**, apaixonado por tecnologia, aprend
 ## 💼 Projetos em Destaque
 
 - 📧 [Classificador de E-mails](https://github.com/kakiih/classificador-email-frontend) — Aplicação completa (frontend + backend) que permite enviar e-mails (texto ou PDF), classifica como **produtivo** ou **improdutivo**, estima a **confiabilidade** e sugere uma **resposta gerada por IA**.  
-  [![Render Deploy](https://img.shields.io/badge/Render-Backend%20Online-46E3B7?logo=render&logoColor=white)](https://classificador-email-backend.onrender.com/processar-email/)
 
   👉 [Frontend Deploy](https://email-classificador.netlify.app/) | [Backend Deploy](https://classificador-email-backend.onrender.com/processar-email/)
 
