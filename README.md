@@ -3,7 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fialhomiguel/)
 
 ## 🙋‍♂️ Sobre mim
-Sou desenvolvedor **fullstack em formação**, apaixonado por tecnologia, aprendizado contínuo e soluções criativas que fazem diferença. Gosto de trabalhar com **frontend, backend e IA aplicada**, sempre buscando boas práticas e inovação.
+Desenvolvedor Full Stack com experiência em React, Node.js e Python, atuando no desenvolvimento de APIs
+REST, interfaces web e automações RPA. Vivência em projetos reais, estágio e freelas, utilizando Git, bancos
+de dados relacionais e metodologias ágeis.
 
 ---
 
