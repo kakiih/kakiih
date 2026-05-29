@@ -147,9 +147,12 @@ Construir sistemas robustos, seguros e escaláveis, utilizando tecnologia para r
 # 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kakiih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakiih&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kakiih&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kakiih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+</div>
 
 ---
 
